@@ -1,55 +1,32 @@
 #titleBox {
     display:flex;
-    background-color: powderblue;
-    box-shadow: rgb(0, 0, 57) 2px 7px;
+    background-color:black;
+    box-shadow: #fd0076 2px 7px;
     margin-top: -.5%;
     padding-bottom:3%;
+    color:chartreuse;
 }
 #welcome{
     padding-top:-3%;
-    padding-left:47%;
-}
-
-#btnContainer {
-    display: flex;
-    margin-top: -2.5%;
-    margin-left:41%;
-}
-#about {
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: .3%;
-    padding-bottom: .3%;
-}
-#projects {
-    margin-left: 3.5%;
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: .3%;
-    padding-bottom: .3%;
-}
-#resume {
-    margin-left: 3.5%;
-    padding-left: 2%;
-    padding-right: 2%;
-    padding-top: .3%;
-    padding-bottom: .3%;
+    padding-left:45%;
 }
 
 #mediaContainer {
     display: flex;
-    background: rgba(93, 183, 214, 0.07);
+    background: rgba(245, 129, 225, 0.07);
     margin-top: 1.5%;
     margin-left: 80%;
     margin-right: -.5%;
     padding-bottom: 50%;
+    color:transparent;
 }
 
-#youtube {
-    margin-top:-50%;
-    padding-left:85%;
-    color:navy;
+#youtube_Icon {
+    margin-top: -50%;
+    margin-left: 85.5%;
+    width:100%;
 }
+
 a {
     color:blue;
     margin-left:85%;
@@ -62,6 +39,6 @@ img {
 #gif {
     display: block;
     margin-left: 0%;
-    margin-top:-30%;
+    margin-top:1%;
     width: 60%;
 }
