@@ -15,30 +15,22 @@
     display: flex;
     background: rgba(245, 129, 225, 0.07);
     margin-top: 1.5%;
-    margin-left: 80%;
-    margin-right: -.5%;
-    padding-bottom: 50%;
+    margin-left: 78%;
+    padding-bottom: 35%;
     color:transparent;
 }
 
-#youtube_Icon {
-    margin-top: -50%;
-    margin-left: 85.5%;
-    width:100%;
+#linksContainer{
+    margin-left:84%;
 }
-
+#youtube_Icon {
+    margin-top: -225%;
+}
 a {
     color:blue;
-    margin-left:85%;
 }
 img {
     display: block;
-    margin-left: 88%;
-    width: 4%;
-}
-#gif {
-    display: block;
-    margin-left: 0%;
-    margin-top:1%;
-    width: 60%;
+    margin-left:22%;
+    width: 25%;
 }
