@@ -32,7 +32,7 @@ a {
 }
 img {
     display: block;
-    margin-left:22%;
+    margin-left: 22%;
     width: 25%;
 }
 
@@ -42,4 +42,5 @@ img {
 }
 #grad{
     border-radius:80px 90px 20px 20px;
+    margin-right: 50%;
 }
