@@ -1,10 +1,11 @@
 #titleBox {
-    display:flex;
+    display: flex;
     background-color:black;
-    box-shadow: #fd0076 2px 7px;
+    border-radius:30px 9px;
+    box-shadow: 10px 10px 8px #fdc3e3;
     margin-top: -.5%;
-    padding-bottom:3%;
-    color:chartreuse;
+    padding-bottom: 3%;
+    color:powderblue;
 }
 #welcome{
     padding-top:-3%;
@@ -33,4 +34,12 @@ img {
     display: block;
     margin-left:22%;
     width: 25%;
+}
+
+#aboutCard{
+    margin-top:-25%;
+    width:70%;
+}
+#grad{
+    border-radius:80px 90px 20px 20px;
 }
